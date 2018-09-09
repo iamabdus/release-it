@@ -1,0 +1,25 @@
+{
+  "name": "release",
+  "version": "1.0.0",
+  "description": "Just test",
+  "main": "index.js",
+  "scripts": {
+    "start": "bestzip dist.zip dist/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamabdus/release-it.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Abdus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamabdus/release-it/issues"
+  },
+  "homepage": "https://github.com/iamabdus/release-it#readme",
+  "dependencies": {
+    "bestzip": "^2.0.0"
+  }
+}
