@@ -12,7 +12,7 @@
       "afterReleaseCommand": ""
     },
     "npm": {
-      "publish": true,
+      "publish": false,
       "tag": "latest"
     },
     "github": {
