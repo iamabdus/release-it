@@ -18,7 +18,7 @@
     "github": {
       "release": true,
       "releaseName": "v%s",
-      "tokenRef": "GITHUB_ACCESS_TOKEN",
+      "tokenRef": "GITHUB_TOKEN",
       "assets": "dist.zip"
     }
   }
