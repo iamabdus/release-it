@@ -4,7 +4,7 @@
     "non-interactive": false,
     "verbose": false,
     "pkgFiles": ["package.json"],
-    "increment": "patch",
+    "increment": "conventional:angular",
     "buildCommand": "npm start",
     "src": {
       "commitMessage": "Release v%s",
